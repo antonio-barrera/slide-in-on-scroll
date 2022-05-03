@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+html {
+    box-sizing: border-box;
+    text-align: justify;
+}
+
+body {
+    background: #FFC600;
+}
+
+.site-wrap {
+    background: #FFF;
+    max-width: 700px;
+    margin: 100px auto 0;
+    padding: 40px;
+}
+
+.site-wrap h1 {
+    font-size: 40px;
+    margin-bottom: 27px;
+}
+
+.site-wrap p {
+    font-size: 20px;
+    margin: 20px 0;
+}
+
+.align-left {
+    float: left;
+    margin-right: 20px;
+}
+
+.align-right {
+    float: right;
+    margin-left: 20px;
+}
