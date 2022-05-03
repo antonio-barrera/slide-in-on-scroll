@@ -12,7 +12,7 @@
 html {
     box-sizing: border-box;
     text-align: justify;
-    overflow: hidden;
+    overflow-x: hidden;
 }
 
 body {
